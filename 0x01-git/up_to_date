@@ -1,0 +1,6 @@
+git push
+git branch
+echo
+git checkout
+git add .
+git commit -m
