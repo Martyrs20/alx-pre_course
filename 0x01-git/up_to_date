@@ -4,3 +4,4 @@ echo
 git checkout
 git add .
 git commit -m
+git pull
